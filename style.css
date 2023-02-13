@@ -1,0 +1,335 @@
+.titulo{
+    
+    position: absolute;
+    width: 278px;
+    height: 47px;
+    left: 243px;
+    top: 110px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+
+    color: #000000;
+}
+.subtitulo{
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 736px;
+    top: 110px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    
+
+    text-transform: uppercase;
+
+    color: #000000;
+}
+.texto{
+    position: absolute;
+    width: 439px;
+    height: 87px;
+    left: 736px;
+    top: 147px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+}
+
+.foto-01{
+    position: absolute;
+    width: 280px;
+    height: 430px;
+    left: 278px;
+    top: 244.5px;
+
+}
+.foto-02{
+    position: absolute;
+    width: 310px;
+    height: 471px;
+    left: 634.64px;
+    top: 396px;
+}
+.foto-03{
+    position: absolute;
+    width: 300.81px;
+    height: 399.96px;
+    left: 990px;
+    top: 244.5px;
+}
+.foto-04{
+    position: absolute;
+    width: 276.68px;
+    height: 469px;
+    left: 278px;
+    top: 760px;
+}
+.foto-05{
+    position: absolute;
+    width: 274.36px;
+    height: 360px;
+    left:634.64px;
+    top: 944px;
+}
+.foto-06{
+    position: absolute;
+    width: 305px;
+    height: 449px;
+    left: 990px;
+    top: 796px;
+
+}
+.nome-pessoa-01{
+    position: absolute;
+    width: 117px;
+    height: 27px;
+    left: 277px;
+    top: 686px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #000000;
+
+}
+.nome-pessoa-02{
+    position: absolute;
+    width: 128px;
+    height: 27px;
+    left: 635px;
+    top: 880px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+color: #000000;
+
+}
+.nome-pessoa-03{
+    position: absolute;
+    width: 70px;
+    height: 27px;
+    left: 990px;
+    top: 652px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    
+    
+    
+    color: #000000;  
+}
+.nome-pessoa-04{
+    position: absolute;
+    width: 86px;
+    height: 27px;
+    left: 277px;
+    top: 1241px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+
+
+color: #000000;
+}
+.nome-pessoa-05{
+    position: absolute;
+    width: 124px;
+    height: 27px;
+    left: 635px;
+    top: 1316px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+
+
+color: #000000;
+}
+.nome-pessoa-06{
+    position: absolute;
+    width: 92px;
+    height: 27px;
+    left: 990px;
+    top: 1251px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+
+
+
+color: #000000;
+
+}
+.função-pessoa-01{
+    position: absolute;
+    width: 102px;
+    height: 16px;
+    left: 520px;
+    top: 288px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+
+}
+.função-pessoa-02{
+    position: absolute;
+    width: 85px;
+    height: 16px;
+    left: 915px;
+    top: 429px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+}
+.função-pessoa-03{
+    position: absolute;
+    width: 65px;
+    height: 16px;
+    left: 1270px;
+    top: 268px;
+
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+}
+.função-pessoa-04{
+    position: absolute;
+    width: 77px;
+    height: 16px;
+    left: 530px;
+    top: 791px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+}
+.função-pessoa-05{
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 890px;
+    top: 970px;
+
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+
+
+    text-transform: uppercase;
+
+    color: #000000;
+
+    transform: rotate(90deg);
+}
+.função-pessoa-06{
+    position: absolute;
+    width: 76px;
+    height: 16px;
+    left: 1270px;
+    top: 827px;
+    
+    font-family: 'PT Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    
+    
+    text-transform: uppercase;
+    
+    color: #000000;
+    
+    transform: rotate(90deg); 
+}
+.rodape{
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 547px;
+    top: 1448px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+   
+    
+    text-align: center;
+    
+    color: #A9A9A9;
+}
